@@ -86,6 +86,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Abhimanyu Shekhawat | II | IT | |
 | Harshita Saxena | II | IT | |
 | Bharti Sharma | II | IT | |
+| Keshav Kabra | II | CSE | | 
 | [Akash Lakhera](https://github.com/akashlakhera) | III | CSE | |
 | [Mansi Breja](https://github.com/MansiBreja) | III | CSE | [@MansiBreja](https://hacktoberfest.digitalocean.com/stats/MansiBreja) |
 | [Prince Jhabak](https://github.com/Princejhabak/) | III | CSE | [@Princejhabak](https://hacktoberfest.digitalocean.com/stats/Princejhabak) |
